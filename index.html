@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Unit Converter App</title>
+</head>
+<body>
+    <div class="container">
+        <div class="input">
+            <h3>
+                Metric/Imperial Unit Conversion
+            </h3>
+
+            <h2 id="input-value">0</h2>
+
+            <input type="number" value="" id="input-num" placeholder="Input your Number" required>
+
+            <input onclick="submitNum()" type="Submit" value="Submit" id="submit">
+
+            <span id="error-msg">Input value can't be 0 or empty</span>
+        </div>
+
+        <div class="output">
+            <p>
+                Length (Meter/Feet) <br>
+                <span id="length">0 meter = 0.000 feet | 0 feet = 0.000 meter</span>
+            </p>
+
+            <p>
+                Volume (Liters/Gallons) <br>
+                <span id="volume">0 liters = 0.000 gallons | 0 gallons = 0.000 liters</span>
+            </p>
+
+            <p>
+                Mass (Kilograms/Pounds) <br>
+                <span id="mass">0 kilos = 0.000 pounds | 0 pounds = 0.000 kilos</span>
+            </p>
+        </div>
+    </div>
+
+
+    <script src="index.js"></script>
+</body>
+</html>
