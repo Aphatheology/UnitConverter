@@ -1,6 +1,6 @@
 # Scrimba Solo Project - Unit Converter
 
-This is a solution to the [Unit Converter by Scrimba](https://scrimba.com/learn/learnjavascript/).
+This is a solution to the [Unit Converter Project by Scrimba](https://scrimba.com/learn/learnjavascript/).
 
 ## Table of contents
 
@@ -18,22 +18,25 @@ This is a solution to the [Unit Converter by Scrimba](https://scrimba.com/learn/
 This is Solo Project from a Javascript course on Scrimba. Figma design of a Unit Converter is given which is to be implemented.
 
 ### Screenshot
-
+Screenshot of the given Design - No Value
 ![Screenshot of the given Design - No Value](./Screenshot/UnitConverterScreenshot1.PNG)
 
+Screenshot of my solution - No Value
 ![Screenshot of my solution - No Value](./Screenshot/UnitConverterScreenshot11.PNG)
 
-![Screenshot of the given Design - With Value](./Screenshot/UnitConverterScreenshot22.PNG)
+Screenshot of the given Design - With Value
+![Screenshot of the given Design - With Value](./Screenshot/UnitConverterScreenshot2.PNG)
 
+Screenshot of my solution - With Value
 ![Screenshot of my solution - With Value](./Screenshot/UnitConverterScreenshot22.PNG)
 
 
 
 ### Links
 
-- Solution URL: [Solution Repository](https://github.com/Aphatheology/UnitConverter)
+- Solution: [Solution Repository](https://github.com/Aphatheology/UnitConverter)
 
-- Live Site URL: [Unit Converter](https://github.com/Aphatheology/UnitConverter)
+- Live Site URL: [Unit Converter](https://aphatheology.github.io/UnitConverter/)
 
 ## My process
 
