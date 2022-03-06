@@ -1,6 +1,4 @@
-# Scrimba Solo Project - Unit Converter
-
-This is a solution to the [Unit Converter Project by Scrimba](https://scrimba.com/learn/learnjavascript/).
+# Unit Converter
 
 ## Table of contents
 
@@ -15,7 +13,7 @@ This is a solution to the [Unit Converter Project by Scrimba](https://scrimba.co
 
 
 ## Overview
-This is Solo Project from a Javascript course on Scrimba. Figma design of a Unit Converter is given which is to be implemented.
+This is Solo Project from a Javascript course on Scrimba. Figma design was provided.
 
 ### Screenshot
 Screenshot of the given Design - No Value
