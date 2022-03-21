@@ -125,9 +125,14 @@ input[type='Submit']:hover {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 80%;
+        width: 90%;
+        margin: 0px auto;
         overflow: hidden;
         height: auto;
+        position: static;
+        top: 0;
+        left: 0;
+        transform: translate(0% , 0%);
     }
 
     .input {
